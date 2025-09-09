@@ -1,8 +1,8 @@
 import './App.css';
-import Home from './Student/home';
-import Contact from './Student/contact';
-import Courses from './Student/courses';
-import Teachers from './Student/teachers';
+import Home from './pages/home';
+import Contact from './pages/contact';
+import Courses from './pages/courses';
+import Teachers from './pages/teachers';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
